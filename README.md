@@ -1,2 +1,2 @@
 # Huffman_enc_dec
-Huffman UTF-32 coding
+Someday I will add a table entry to a file ...
